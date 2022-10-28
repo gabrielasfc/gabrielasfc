@@ -1,5 +1,17 @@
-### 👋 Hi there, I am Gabriela
+### 👋 Hi there!
 - I am from Braga, Portugal
 - I am currently studying Software Engineering at University of Minho
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasfc&layout=compact&theme=github_dark)
+<div>
+  <a href="https://www.linkedin.com/in/gabrielasfc0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"/>
+  </a>
+</div>
+
+
+
+#### 🛠️ Languages and Tools:
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
